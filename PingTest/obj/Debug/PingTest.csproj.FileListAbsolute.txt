@@ -1,0 +1,6 @@
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\bin\Debug\PingTest.exe.config
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\bin\Debug\PingTest.exe
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\bin\Debug\PingTest.pdb
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\obj\Debug\PingTest.exe
+C:\Users\aprzyszlak\source\repos\PingTest\PingTest\obj\Debug\PingTest.pdb
